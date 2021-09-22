@@ -5,4 +5,8 @@ package com.msb;
  * @create 2021-09-22-22:28
  */
 public class Student {
+
+    private Integer age;
+    private String name;
+
 }
